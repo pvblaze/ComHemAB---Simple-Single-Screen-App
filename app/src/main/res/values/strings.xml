@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">A Simple Single Screen App </string>
+    <string name="company_name"><b>Com Hem AB</b> is a Swedish telecommunications company that supplies television, broadband and telephony, called triple play, via its own cable TV network, and via both its own and open fiber networks, to many locations in Sweden.</string>
+
+    <string name="adress"><b>ADRESS:</b>\nCom Hem AB, Fleminggatan 18, 2 tr, Box 8093, 104 20 STOCKHOLM</string>
+
+    <string name="open"><b>CUSTOMER SUPPORT OPEN:</b>\nWeekdays 08.00-21.00\nHolidays 09.00-18.00</string>
+
+    <string name="www"><b>WEBSITE:</b>\nwww.comhem.se</string>
+
+    <string name="tele"><b>TELEPHONE:</b>\n+46 90222</string>
+
+    <string name="email"><b>EMAIL:</b>\ninfo@comhem.com</string>
+
+</resources>
